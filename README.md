@@ -1,4 +1,4 @@
-## buat file .env dan tambahkan variable berikut:
+## buat file .env di folder "server" dan tambahkan variable berikut:
 
 MONGO_URI=
 DB_NAME=
