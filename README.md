@@ -1,9 +1,9 @@
-buat file .env dan tambahkan variable berikut:
-MONGO_URI=
-DB_NAME=
+## buat file .env dan tambahkan variable berikut:
+# MONGO_URI=
+# DB_NAME=
 
-install package / node_module dengan perintah:
-npm i
+## install package / node_module dengan perintah:
+# npm i
 
-menjalankan server gunakan perintah:
-npm run server
+## menjalankan server gunakan perintah:
+# npm run server
